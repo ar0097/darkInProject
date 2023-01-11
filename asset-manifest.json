@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/darkInProject/static/css/main.a71d7ff3.css",
+    "main.js": "/darkInProject/static/js/main.b4836870.js",
+    "static/js/787.954a81a7.chunk.js": "/darkInProject/static/js/787.954a81a7.chunk.js",
+    "index.html": "/darkInProject/index.html",
+    "main.a71d7ff3.css.map": "/darkInProject/static/css/main.a71d7ff3.css.map",
+    "main.b4836870.js.map": "/darkInProject/static/js/main.b4836870.js.map",
+    "787.954a81a7.chunk.js.map": "/darkInProject/static/js/787.954a81a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a71d7ff3.css",
+    "static/js/main.b4836870.js"
+  ]
+}
